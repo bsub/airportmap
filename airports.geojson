@@ -1,0 +1,212 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.391881,-6.081689 ]
+    },
+    "properties": {
+    "id":1,
+    "airportName":"Goroka",
+    "city":"Goroka",
+    "country":"Papua New Guinea",
+    "IATA":"GKA",
+    "ICAO":"AYGA",
+    "elevation":5282,
+    "UTC":10,
+    "letter":"U",
+    "path":"Pacific/Port_Moresby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.7887,-5.207083 ]
+    },
+    "properties": {
+    "id":2,
+    "airportName":"Madang",
+    "city":"Madang",
+    "country":"Papua New Guinea",
+    "IATA":"MAG",
+    "ICAO":"AYMD",
+    "elevation":20,
+    "UTC":10,
+    "letter":"U",
+    "path":"Pacific/Port_Moresby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.295861,-5.826789 ]
+    },
+    "properties": {
+    "id":3,
+    "airportName":"Mount Hagen",
+    "city":"Mount Hagen",
+    "country":"Papua New Guinea",
+    "IATA":"HGU",
+    "ICAO":"AYMH",
+    "elevation":5388,
+    "UTC":10,
+    "letter":"U",
+    "path":"Pacific/Port_Moresby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.726242,-6.569828 ]
+    },
+    "properties": {
+    "id":4,
+    "airportName":"Nadzab",
+    "city":"Nadzab",
+    "country":"Papua New Guinea",
+    "IATA":"LAE",
+    "ICAO":"AYNZ",
+    "elevation":239,
+    "UTC":10,
+    "letter":"U",
+    "path":"Pacific/Port_Moresby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.22005,-9.443383 ]
+    },
+    "properties": {
+    "id":5,
+    "airportName":"Port Moresby Jacksons Intl",
+    "city":"Port Moresby",
+    "country":"Papua New Guinea",
+    "IATA":"POM",
+    "ICAO":"AYPY",
+    "elevation":146,
+    "UTC":10,
+    "letter":"U",
+    "path":"Pacific/Port_Moresby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.669186,-3.583828 ]
+    },
+    "properties": {
+    "id":6,
+    "airportName":"Wewak Intl",
+    "city":"Wewak",
+    "country":"Papua New Guinea",
+    "IATA":"WWK",
+    "ICAO":"AYWK",
+    "elevation":19,
+    "UTC":10,
+    "letter":"U",
+    "path":"Pacific/Port_Moresby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.425978,61.160517 ]
+    },
+    "properties": {
+    "id":7,
+    "airportName":"Narsarsuaq",
+    "city":"Narssarssuaq",
+    "country":"Greenland",
+    "IATA":"UAK",
+    "ICAO":"BGBW",
+    "elevation":112,
+    "UTC":-3,
+    "letter":"E",
+    "path":"America/Godthab"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.678064,64.190922 ]
+    },
+    "properties": {
+    "id":8,
+    "airportName":"Nuuk",
+    "city":"Godthaab",
+    "country":"Greenland",
+    "IATA":"GOH",
+    "ICAO":"BGGH",
+    "elevation":283,
+    "UTC":-3,
+    "letter":"E",
+    "path":"America/Godthab"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -50.689325,67.016969 ]
+    },
+    "properties": {
+    "id":9,
+    "airportName":"Sondre Stromfjord",
+    "city":"Sondrestrom",
+    "country":"Greenland",
+    "IATA":"SFJ",
+    "ICAO":"BGSF",
+    "elevation":165,
+    "UTC":-3,
+    "letter":"E",
+    "path":"America/Godthab"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.703161,76.531203 ]
+    },
+    "properties": {
+    "id":10,
+    "airportName":"Thule Air Base",
+    "city":"Thule",
+    "country":"Greenland",
+    "IATA":"THU",
+    "ICAO":"BGTL",
+    "elevation":251,
+    "UTC":-4,
+    "letter":"E",
+    "path":"America/Thule"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -18.072703,65.659994 ]
+    },
+    "properties": {
+    "id":11,
+    "airportName":"Akureyri",
+    "city":"Akureyri",
+    "country":"Iceland",
+    "IATA":"AEY",
+    "ICAO":"BIAR",
+    "elevation":6,
+    "UTC":0,
+    "letter":"N",
+    "path":"Atlantic/Reykjavik"
+    }
+  }]}
